@@ -71,7 +71,7 @@
         <preference name="StatusBarBackgroundColor" value="#FF0000" />
         <edit-config file="*-Info.plist" mode="merge" target="NSLocationWhenInUseUsageDescription">
             <string>Required to send machine location.</string>
-        </edit-config>
+        </edit-config> 
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
         <icon height="57" src="resources/ios/icon/icon.png" width="57" />
